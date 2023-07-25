@@ -7,7 +7,7 @@ This is a repository to collect OIer's research.
 
 可以通过提交PR或者找wxt统一传的方式，推荐大家使用PR的方式。
 
-gitee仓库只是镜像作用，请不要想gitee提交PR。
+gitee仓库只是镜像作用，请不要向gitee提交PR。
 
 [gitee](https://gitee.com/wxt1221/sw-wiki)
 
