@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{前提知识}{3}{0}{1}
+\beamer@sectionintoc {2}{引入}{10}{0}{2}
+\beamer@sectionintoc {3}{分析}{11}{0}{3}
+\beamer@sectionintoc {4}{总结}{13}{0}{4}
+\beamer@sectionintoc {5}{推荐题目}{14}{0}{5}
