@@ -1,0 +1,1 @@
+{"name":"Local: seq","url":"/home/wxt/OI/BIT/contest/source/wxt/seq.cpp","tests":[{"id":1687056508871,"input":"2\n5\n1 5 3 4 8\n5\n1 2 3 4 5","output":"2\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/wxt/OI/BIT/contest/source/wxt/seq.cpp","group":"local","local":true}
