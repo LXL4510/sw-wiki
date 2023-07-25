@@ -12,3 +12,8 @@ gitee仓库只是镜像作用，请不要想gitee提交PR。
 [gitee](https://gitee.com/wxt1221/sw-wiki)
 
 [github](https://github.com/wxt1221/sw-wiki)
+
+命名规范：找到自己课题所属的部分，创建以课题名称的文件夹，下面以名字和年级创建文件夹，用下划线分割，比如：
+```
+/DP/DDP/wxt_初2021级
+```
